@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'HELLO, world !!'
+    return 'Update 14/11/2022'
